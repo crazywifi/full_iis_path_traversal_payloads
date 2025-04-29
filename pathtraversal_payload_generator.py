@@ -48,7 +48,6 @@ base_paths = [
     # Custom log paths from applicationHost.config
     "LogFiles/ttroot/app.log",
     "LogFiles/ttroot/errors.log",
-    "MomentumRoot/Momentum.Services/web.config",
     "Program File/RSA Security/RSAWebAgent/WebID/web.config"
 ]
 
