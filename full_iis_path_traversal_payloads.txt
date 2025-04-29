@@ -52,7 +52,6 @@
 ../Program Files/Common Files/Microsoft Shared/Web Server Extensions/15/LOGS
 ../LogFiles/ttroot/app.log
 ../LogFiles/ttroot/errors.log
-../MomentumRoot/Momentum.Services/web.config
 ../Program File/RSA Security/RSAWebAgent/WebID/web.config
 ../../web.config
 ../../Web.config
@@ -108,7 +107,6 @@
 ../../Program Files/Common Files/Microsoft Shared/Web Server Extensions/15/LOGS
 ../../LogFiles/ttroot/app.log
 ../../LogFiles/ttroot/errors.log
-../../MomentumRoot/Momentum.Services/web.config
 ../../Program File/RSA Security/RSAWebAgent/WebID/web.config
 ../../../web.config
 ../../../Web.config
@@ -164,7 +162,6 @@
 ../../../Program Files/Common Files/Microsoft Shared/Web Server Extensions/15/LOGS
 ../../../LogFiles/ttroot/app.log
 ../../../LogFiles/ttroot/errors.log
-../../../MomentumRoot/Momentum.Services/web.config
 ../../../Program File/RSA Security/RSAWebAgent/WebID/web.config
 ../../../../web.config
 ../../../../Web.config
@@ -220,7 +217,6 @@
 ../../../../Program Files/Common Files/Microsoft Shared/Web Server Extensions/15/LOGS
 ../../../../LogFiles/ttroot/app.log
 ../../../../LogFiles/ttroot/errors.log
-../../../../MomentumRoot/Momentum.Services/web.config
 ../../../../Program File/RSA Security/RSAWebAgent/WebID/web.config
 ../../../../../web.config
 ../../../../../Web.config
@@ -276,7 +272,6 @@
 ../../../../../Program Files/Common Files/Microsoft Shared/Web Server Extensions/15/LOGS
 ../../../../../LogFiles/ttroot/app.log
 ../../../../../LogFiles/ttroot/errors.log
-../../../../../MomentumRoot/Momentum.Services/web.config
 ../../../../../Program File/RSA Security/RSAWebAgent/WebID/web.config
 /../web.config
 /../Web.config
@@ -332,7 +327,6 @@
 /../Program Files/Common Files/Microsoft Shared/Web Server Extensions/15/LOGS
 /../LogFiles/ttroot/app.log
 /../LogFiles/ttroot/errors.log
-/../MomentumRoot/Momentum.Services/web.config
 /../Program File/RSA Security/RSAWebAgent/WebID/web.config
 /../../web.config
 /../../Web.config
@@ -388,7 +382,6 @@
 /../../Program Files/Common Files/Microsoft Shared/Web Server Extensions/15/LOGS
 /../../LogFiles/ttroot/app.log
 /../../LogFiles/ttroot/errors.log
-/../../MomentumRoot/Momentum.Services/web.config
 /../../Program File/RSA Security/RSAWebAgent/WebID/web.config
 /../../../web.config
 /../../../Web.config
@@ -444,7 +437,6 @@
 /../../../Program Files/Common Files/Microsoft Shared/Web Server Extensions/15/LOGS
 /../../../LogFiles/ttroot/app.log
 /../../../LogFiles/ttroot/errors.log
-/../../../MomentumRoot/Momentum.Services/web.config
 /../../../Program File/RSA Security/RSAWebAgent/WebID/web.config
 /../../../../web.config
 /../../../../Web.config
@@ -500,7 +492,6 @@
 /../../../../Program Files/Common Files/Microsoft Shared/Web Server Extensions/15/LOGS
 /../../../../LogFiles/ttroot/app.log
 /../../../../LogFiles/ttroot/errors.log
-/../../../../MomentumRoot/Momentum.Services/web.config
 /../../../../Program File/RSA Security/RSAWebAgent/WebID/web.config
 /../../../../../web.config
 /../../../../../Web.config
@@ -556,5 +547,4 @@
 /../../../../../Program Files/Common Files/Microsoft Shared/Web Server Extensions/15/LOGS
 /../../../../../LogFiles/ttroot/app.log
 /../../../../../LogFiles/ttroot/errors.log
-/../../../../../MomentumRoot/Momentum.Services/web.config
 /../../../../../Program File/RSA Security/RSAWebAgent/WebID/web.config
